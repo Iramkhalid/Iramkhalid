@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Iramkhalid
-- 👀 I’m interested in .data cleaning,machine learning..
+- 👀 I’m interested in .language learning,framework, data cleaning,machine learning..
 - 🌱 I’m currently learning ..data visualization.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...iramkhalid571@gmail.com
 
 <!---
 Iramkhalid/Iramkhalid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
